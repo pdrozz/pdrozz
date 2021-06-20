@@ -1,12 +1,10 @@
 ## Hi there 👋
-### I'm Pedro
+### I'm Pedro, Android Developer
 > Brazilian developer who loves to develop for mobile devices
 
 #### My Stack❤️
 - [X] Android SDK
 - [X] Flutter
-- [X] Firebase SDK
-- [X] SQL - NOSQL 
 - [X] Python
 
 #### I want to learn🙂
