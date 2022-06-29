@@ -15,7 +15,7 @@
 ``` kotlin
 data class Pedro (
     var name: String = "Pedro Cardoso",
-    var age: Int = 20
+    var age: Int = 20,
     var languages: Array<String> = arrayOf("Kotlin", "Java", "Python"),
     var architecture: Array<String> = arrayOf("MVVM", "MVP", "MVC"),
     var VCS: Array<String> = arrayOf("GIT", "GitHub", "BitBucket"),
