@@ -23,10 +23,15 @@ data class Pedro (
 )
 ```
 
-![pdrozz github stats](https://github-readme-stats.vercel.app/api?username=pdrozz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+<a href="#">
+  <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=pdrozz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrozz&layout=compact&hide_border=true&count_private=true&theme=radical)](https://github.com/pdrozz?tab=repositories)
+<a href="https://github.com/pdrozz?tab=repositories">
+  <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrozz&layout=compact&hide_border=true&count_private=true&theme=radical" />
+</a>
 
+<hr>
 <a href='https://github.com/pdrozz?tab=repositories'>👨‍💻 Check any of my projects using modern tools here.</a>
 
 <!--
