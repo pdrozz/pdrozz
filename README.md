@@ -26,10 +26,10 @@ data class Pedro (
 
 <div>
 <a href="#">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=pdrozz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pdrozz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/pdrozz?tab=repositories">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrozz&layout=compact&hide_border=true&count_private=true&theme=radical" /></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrozz&layout=compact&hide_border=true&count_private=true&theme=radical" /></a>
 </div>
 
 
