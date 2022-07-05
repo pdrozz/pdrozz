@@ -35,7 +35,9 @@ data class Pedro (
 
 <hr>
 <a href='https://github.com/pdrozz?tab=repositories'>👨‍💻 Check any of my projects using modern tools here.</a>
+<br><br>
 
+![](https://komarev.com/ghpvc/?username=pdrozz&color=brightgreen)
 <!--
 **pdrozz/pdrozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
