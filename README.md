@@ -14,11 +14,11 @@
 
 ``` kotlin
 data class Pedro (
-    var name: String = "Pedro Cardoso",
+    val name: String = "Pedro Cardoso",
     var age: Int = 20,
     var languages: Array<String> = arrayOf("Kotlin", "Java", "Python"),
     var architecture: Array<String> = arrayOf("MVVM", "MVP", "MVC"),
-    var VCS: Array<String> = arrayOf("GIT", "GitHub", "BitBucket"),
+    var VCS: Array<String> = arrayOf("GIT", "GitHub", "GitLab", "BitBucket"),
     var interest: String = "Android Development"
 )
 ```
