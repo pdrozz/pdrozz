@@ -5,7 +5,7 @@
 <a href="https://dev.to/pdrozz"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pedro-hcardoso/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
 <a href="https://pt.stackoverflow.com/users/295555/pedro-cardoso"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@pedrohhcardoso"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@pedrohcardoso"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
 <hr>
