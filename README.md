@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Android Developer - Mid Level</h3>
+<h3 align="center">Senior Android Developer</h3>
 
 <p align='center'>
 <a href="https://dev.to/pdrozz"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -15,9 +15,9 @@
 ``` kotlin
 data class Pedro (
     val name: String = "Pedro Cardoso",
-    var age: Int = 21,
+    var age: Int = 22,
     var languages: Array<String> = arrayOf("Kotlin", "Java", "Python"),
-    var architecture: Array<String> = arrayOf("MVVM", "MVP", "MVC"),
+    var architecture: Array<String> = arrayOf("MVVM", "MVP", "MVI"),
     var VCS: Array<String> = arrayOf("GIT", "GitHub", "GitLab", "BitBucket"),
     var interest: String = "Android Development"
 )
