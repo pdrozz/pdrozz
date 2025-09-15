@@ -2,10 +2,9 @@
 <h3 align="center">Senior Android Developer</h3>
 
 <p align='center'>
-<a href="https://dev.to/pdrozz"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pedro-hcardoso/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
-<a href="https://pt.stackoverflow.com/users/295555/pedro-cardoso"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@pedrohcardoso"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@pedrohcardoso"><img height="30" src="https://miro.medium.com/v2/resize:fill:128:128/1*7eq6Xl7nRYU77U7IPYvoDg.jpeg"></a>&nbsp;&nbsp;
+<a href="https://dev.to/pdrozz"><img height="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"></a>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -15,11 +14,11 @@
 ``` kotlin
 data class Pedro (
     val name: String = "Pedro Cardoso",
-    var age: Int = 22,
+    var age: Int = 23,
     var languages: Array<String> = arrayOf("Kotlin", "Java", "Python"),
     var architecture: Array<String> = arrayOf("MVVM", "MVP", "MVI"),
     var VCS: Array<String> = arrayOf("GIT", "GitHub", "GitLab", "BitBucket"),
-    var interest: String = "Android Development"
+    var interest: String = "Android Development, Kotlin Multiplatform, iOS"
 )
 ```
 
