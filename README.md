@@ -3,7 +3,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/pedro-hcardoso/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@pedrohcardoso"><img height="30" src="https://miro.medium.com/v2/resize:fill:128:128/1*7eq6Xl7nRYU77U7IPYvoDg.jpeg"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@@pedro.hcardoso"><img height="30" src="https://miro.medium.com/v2/resize:fill:128:128/1*7eq6Xl7nRYU77U7IPYvoDg.jpeg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/pdrozz"><img height="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"></a>&nbsp;&nbsp;
 </p>
 
